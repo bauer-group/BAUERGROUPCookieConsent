@@ -10,11 +10,7 @@ Für die Ausgabe der Cookie Richtlinien in der Datenschutzerklärung, stehen zwe
 Bitte den nachstehenden Code verwenden (&lt;div&gt;...&lt;/div&gt;). Das Stellt sicher, dass immer die korrekte Liste mit Cookies ausgegeben wird, insbesondere die Tabelle.
 
 ### Der gesamte Hinweis, inkl. Tabelle der Cookies:
-<pre><code>
-&lt;div id=&quot;cookiefirst-policy-page&quot;&gt;Die Cookie-Richtlinien werden geladen...&lt;/div&gt;
-</code></pre>
+<pre><code>&lt;div id=&quot;cookiefirst-policy-page&quot;&gt;Die Cookie-Richtlinien werden geladen...&lt;/div&gt;</code></pre>
 
 ### Nur die Cookietabelle:
-<pre><code>
-&lt;div id=&quot;cookiefirst-cookies-table&quot;&gt;Die Cookie-Tabelle wird geladen...&lt;/div&gt;
-</code></pre>
+<pre><code>&lt;div id=&quot;cookiefirst-cookies-table&quot;&gt;Die Cookie-Tabelle wird geladen...&lt;/div&gt;</code></pre>
