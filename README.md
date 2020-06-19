@@ -7,7 +7,7 @@ Nach der Installation geben sie bitte den API Schlüssel, den sie im Dashboard v
 ## Weitere Anpassungen
 Für die Ausgabe der Cookie Richtlinien in der Datenschutzerklärung, stehen zwei Tags zur Verfügung. Dieser muss in die Datenschutzerklärung aufgenommen werden. Der Inhalt wird automatisch generiert.
 
-Bitte den nachstehenden Code verwenden (<pre><code>&lt;div&gt;...&lt;/div&gt;</code></pre>). Das Stellt sicher, dass immer die korrekte Liste mit Cookies ausgegeben wird, insbesondere die Tabelle.
+Bitte den nachstehenden Code verwenden (&lt;div&gt;...&lt;/div&gt;). Das Stellt sicher, dass immer die korrekte Liste mit Cookies ausgegeben wird, insbesondere die Tabelle.
 
 ### Der gesamte Hinweis, inkl. Tabelle der Cookies:
 <pre><code>
