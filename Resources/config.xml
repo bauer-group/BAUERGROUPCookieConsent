@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
+	<elements>
+		<element type="text" required="true" scope="shop">
+			<name>APIKey</name>
+			<label lang="de">API Schlüssel</label>
+			<label lang="en">API key</label>
+			<value></value>
+			<description lang="de">Erforderlicher Zugriffsschlüssel für den Consent Manager.</description>
+			<description lang="en">Required access key for the Consent Manager.</description>
+		</element>
+	</elements>
+</config>
